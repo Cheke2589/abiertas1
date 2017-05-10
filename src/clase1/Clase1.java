@@ -25,7 +25,7 @@ public class Clase1 {
         
         while(true){
         System.out.println("Bienvenido a la matrix elije entre los cuatro ejercicios: ");
-        
+        System.out.println("El Cheke se come la del Mark");
         menu=leer.next();
         
         switch(menu){
